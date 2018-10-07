@@ -2,7 +2,7 @@
 set -e
 
 # Tools install
-sudo apt-get install -y autoconf automake libtool nasm make pkg-config git
+sudo apt-get install -y autoconf automake libtool nasm make pkg-config git libpng-dev
 
 # Get code
 git clone https://github.com/mozilla/mozjpeg.git --depth 1
