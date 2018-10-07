@@ -1,5 +1,5 @@
 # Run
 
 ``` sh
-wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
+wget -O - https://raw.githubusercontent.com/tanrax/mozjpeg-installer/master/mozjpeg-installer.sh | bash
 ```
